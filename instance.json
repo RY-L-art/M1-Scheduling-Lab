@@ -1,0 +1,21 @@
+{
+  "name": "Ho2024_Table1a_JSP_3x3",
+  "source": "Ho et al. (2024), Section II-A, Table 1(a), pp. 14704-14705, DOI:10.1109/ACCESS.2024.3357969",
+  "time_unit": "unspecified time units, as in the source",
+  "jobs": [
+    {"id": "J1", "operations": [
+      {"id": "O11", "machine": "M1", "duration": 3},
+      {"id": "O12", "machine": "M3", "duration": 5},
+      {"id": "O13", "machine": "M2", "duration": 4}
+    ]},
+    {"id": "J2", "operations": [
+      {"id": "O21", "machine": "M3", "duration": 2},
+      {"id": "O22", "machine": "M2", "duration": 4},
+      {"id": "O23", "machine": "M1", "duration": 3}
+    ]},
+    {"id": "J3", "operations": [
+      {"id": "O31", "machine": "M1", "duration": 3},
+      {"id": "O32", "machine": "M3", "duration": 2}
+    ]}
+  ]
+}
